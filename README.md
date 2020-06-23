@@ -7,9 +7,9 @@ This is the open source project DynaMIS-a dynamic maximum independent solver by 
 is not a proper subset of any other independent set. A maximum independent set (Max-IS)
 is a maximum cardinality independent set. While Max-IS is one of Karp’s 21 classic NP56 complete problems [31], computing a MIS can easily be done by a simple greedy algorithm in
 $O(|E|)$ time. The MIS problem has been studied in the context of several other prominent
-problems, e.g., graph coloring [33], maximum matching [30], and vertex cover [36]. On the
+problems, e.g., graph coloring, maximum matching, and vertex cover. On the
 other hand, Max-IS serves as a natural model for many real-life optimization problems,
-including map labeling [3], computer vision [6], information retrieval [37], and scheduling [38].
+including map labeling, computer vision, information retrieval, and scheduling.
 
 ## Licence
 
