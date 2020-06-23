@@ -3,10 +3,10 @@
 </script>
 ## Overview
 
-This is the open source project DynaMIS-a dynamic maximum independent solver by TUWIEN. The independent set problem is a fundamental graph problem with a wide range of applications. Given a graph $G = (V, E)$, a set of vertices $M \subset V$ is independent if no two vertices in $M$ are adjacent in G. A maximal independent set (MIS) is an independent set that
+This is the open source project DynaMIS-a dynamic maximum independent solver by TUWIEN. The independent set problem is a fundamental graph problem with a wide range of applications. Given a graph $$G = (V, E)$$, a set of vertices $$M \subset V$$ is independent if no two vertices in $$M$$ are adjacent in $$G$$. A maximal independent set (MIS) is an independent set that
 is not a proper subset of any other independent set. A maximum independent set (Max-IS)
-is a maximum cardinality independent set. While Max-IS is one of Karp’s 21 classic NP56 complete problems [31], computing a MIS can easily be done by a simple greedy algorithm in
-$O(|E|)$ time. The MIS problem has been studied in the context of several other prominent
+is a maximum cardinality independent set. While Max-IS is one of Karp’s 21 classic NP56 complete problems, computing a MIS can easily be done by a simple greedy algorithm in
+$$O(|E|)$$ time. The MIS problem has been studied in the context of several other prominent
 problems, e.g., graph coloring, maximum matching, and vertex cover. On the
 other hand, Max-IS serves as a natural model for many real-life optimization problems,
 including map labeling, computer vision, information retrieval, and scheduling.
