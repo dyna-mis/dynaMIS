@@ -1,8 +1,15 @@
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 ## Overview
 
-You can use the [editor on GitHub](https://github.com/GPLi-TUWIEN/dynaMIS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the open source project DynaMIS-a dynamic maximum independent solver by TUWIEN. The independent set problem is a fundamental graph problem with a wide range of applications. Given a graph $G = (V, E)$, a set of vertices $M \subset V$ is independent if no two vertices in $M$ are adjacent in G. A maximal independent set (MIS) is an independent set that
+is not a proper subset of any other independent set. A maximum independent set (Max-IS)
+is a maximum cardinality independent set. While Max-IS is one of Karp’s 21 classic NP56 complete problems [31], computing a MIS can easily be done by a simple greedy algorithm in
+$O(|E|)$ time. The MIS problem has been studied in the context of several other prominent
+problems, e.g., graph coloring [33], maximum matching [30], and vertex cover [36]. On the
+other hand, Max-IS serves as a natural model for many real-life optimization problems,
+including map labeling [3], computer vision [6], information retrieval [37], and scheduling [38].
 
 ## Licence
 
