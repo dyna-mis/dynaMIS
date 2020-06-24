@@ -22,15 +22,6 @@ This project is under MIT licence.
 if you want to know more about our implemented algorithms, please refer to [our paper](https://arxiv.org/abs/2002.07611). 
 Please aknowledge our work if you publish your result using our algorithms or code.
 
-@misc{bhore2020independent,
-    title={Independent Sets of Dynamic Rectangles: Algorithms and Experiments},
-    author={Sujoy Bhore and Guangping Li and Martin Nöllenburg},
-    year={2020},
-    eprint={2002.07611},
-    archivePrefix={arXiv},
-    primaryClass={cs.CG}
-}
-
 ## Download
 Source code (availbale in our [github repository](https://github.com/GPLi-TUWIEN/dynaMIS)). 
 
@@ -38,4 +29,5 @@ Source code (availbale in our [github repository](https://github.com/GPLi-TUWIEN
 Please write us an Email if you need support
 We are glad to get any comments and error reports.
 A random instances generators are available upon request
-## References
+## Acknowledgments
+[Our project "Human-Centered Algorithm Engineering: Graph and Map Visualization"](https://www.ac.tuwien.ac.at/research/humalgo/) is supported by the Austrian Science Fund (FWF) under Grant P31119.
