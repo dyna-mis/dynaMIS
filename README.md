@@ -24,7 +24,7 @@ if you want to know more about our implemented algorithms, please refer to [our 
 Please aknowledge our work if you publish your result using our algorithms or code.
 
 ## Download
-Source code (availbale in our [github repository](https://github.com/GPLi-TUWIEN/dynaMIS)). 
+Source code (availbale in our [github repository](https://github.com/GPLi-TUWIEN/dynaMIS))
 
 ## Support
 Please write us an Email if you need support
