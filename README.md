@@ -2,7 +2,7 @@
    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 ## Overview
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/GPLi-TUWIEN/dynaMIS/blob/master/dynamis_icon.gif)
 
 The independent set problem is a fundamental graph problem with a wide range of applications. Given a graph $$G = (V, E)$$, a set of vertices $$M \subset V$$ is independent if no two vertices in $$M$$ are adjacent in $$G$$. A maximal independent set (**MIS**) is an independent set that
 is not a proper subset of any other independent set. A maximum independent set **Max-IS**
