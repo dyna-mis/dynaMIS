@@ -17,27 +17,19 @@ So far our framework contains the first deterministic algorithm for maintaining 
 
 ## Licence
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project is under MIT licence. 
+## Referenc
+if you want to know more about our implemented algorithms, please refer to [our paper](https://arxiv.org/abs/2002.07611). 
+Please aknowledge our work if you publish your result using our algorithms or code.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+@misc{bhore2020independent,
+    title={Independent Sets of Dynamic Rectangles: Algorithms and Experiments},
+    author={Sujoy Bhore and Guangping Li and Martin Nöllenburg},
+    year={2020},
+    eprint={2002.07611},
+    archivePrefix={arXiv},
+    primaryClass={cs.CG}
+}
 
 ## Download
 
