@@ -18,7 +18,7 @@ So far our framework contains the first deterministic algorithm for maintaining 
 ## Licence
 
 This project is under MIT licence. 
-## Referenc
+## Reference
 if you want to know more about our implemented algorithms, please refer to [our paper](https://arxiv.org/abs/2002.07611). 
 Please aknowledge our work if you publish your result using our algorithms or code.
 
@@ -32,10 +32,10 @@ Please aknowledge our work if you publish your result using our algorithms or co
 }
 
 ## Download
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GPLi-TUWIEN/dynaMIS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Source code (availbale in our [github repository](https://github.com/GPLi-TUWIEN/dynaMIS)). 
 
 ## Support
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please write us an Email if you need support
+We are glad to get any comments and error reports.
+A random instances generators are available upon request
 ## References
