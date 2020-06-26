@@ -8,11 +8,11 @@
 
 # Description
 Our Framework contains 5 algorithms.
-* ors : a dynamic MIS algorithm based on orthogonal range searching 
-* graph: a graph-based dynamic MIS algorithm
-* grid: a grid-based 4-approximation algorithm 
-* gridK: The group-shifting based algorithm. Need a extra parameter -k
-* line: stabbing-line based 2-approximation algorithm
+* ors(rs) : a dynamic MIS algorithm based on orthogonal range searching 
+* graph(cg): a graph-based dynamic MIS algorithm
+* grid(sl): a grid-based 4-approximation algorithm 
+* gridK(slk): The group-shifting based algorithm. Need a extra parameter -k
+* line(arrow): stabbing-line based 2-approximation algorithm
 
 
 # Installation
@@ -23,7 +23,7 @@ Compile the source with Debug/Makefile.
 
 --output, -o : output the solution</br>
 --help, -h : output this help</br>
---algorithm, -a : algorithm in use， please using abbreviations (see description above)</br>
+--algorithm, -a : algorithm in use， please using the abbreviations (see description above)</br>
 --sigma, -s : width of a square</br>
 
 
