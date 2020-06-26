@@ -13,6 +13,8 @@ Our Framework contains 5 algorithms.
 * grid(sl): a grid-based 4-approximation algorithm 
 * gridK(slk): The group-shifting based algorithm. Need a extra parameter -k
 * line(arrow): stabbing-line based 2-approximation algorithm
+
+
 Additionally, our framework supports the greedy optimization with the algorithms grid, gridk,line.  The greedy versions drastically improve the solution
  quality, but typically at the cost of higher runtimes. 
 
