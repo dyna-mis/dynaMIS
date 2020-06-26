@@ -6,7 +6,7 @@
 <li>  g++ </li>
 </ol>
 # Description
-Our Framework contains 4 algorithms.
+Our Framework contains 5 algorithms.
 <ol>
 <li>ors : a dynamic MIS algorithm based on orthogonal range searching </li>
 <li>graph: a graph-based dynamic MIS algorithm</li>
@@ -22,10 +22,10 @@ Compile the source with Debug/Makefile.
 ./dynaMIS  <instance> [options]
 
 
---output, -o : output the solution
---help, -h : output this help
---algorithm, -a : algorithm in use (see options below)
---sigma, -s : width of a square
+--output, -o : output the solution</br>
+--help, -h : output this help</br>
+--algorithm, -a : algorithm in use (see options below)</br>
+--sigma, -s : width of a square</br>
 
 
 
