@@ -16,7 +16,7 @@ Our Framework contains 5 algorithms.
 
 
 # Installation
-Compile the source with Debug/Makefile.
+Compile the source with the Debug/Makefile file.
 # Usage
 ./dynaMIS  <instance> [options]
 
