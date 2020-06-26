@@ -27,7 +27,7 @@ Please aknowledge our work if you publish your result using our algorithms or co
 Source code (availbale in our [github repository](https://github.com/GPLi-TUWIEN/dynaMIS))
 
 ## Support
-Please write us an Email if you need support.
+Please write us an [Email](guangping@ac.tuwien.ac.at) if you need support.
 
 We are glad to get any comments and error reports.
 
