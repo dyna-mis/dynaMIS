@@ -15,7 +15,7 @@ Our Framework contains 5 algorithms.
 * line(arrow): stabbing-line based 2-approximation algorithm
 
 
-Additionally, our framework supports the greedy optimization with the algorithms grid, gridk,line.  The greedy versions drastically improve the solution
+Additionally, our framework supports the greedy optimization with the maximal independent set solver,i.e., grid, gridk, and line.  The greedy versions drastically improve the solution
  quality, but typically at the cost of higher runtimes. 
 
 # Installation
