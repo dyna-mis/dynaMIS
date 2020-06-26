@@ -20,14 +20,17 @@ So far our framework contains the first deterministic algorithm for maintaining 
 This project is under MIT licence. 
 ## Reference
 if you want to know more about our implemented algorithms, please refer to [our paper](https://arxiv.org/abs/2002.07611). 
+
 Please aknowledge our work if you publish your result using our algorithms or code.
 
 ## Download
 Source code (availbale in our [github repository](https://github.com/GPLi-TUWIEN/dynaMIS))
 
 ## Support
-Please write us an Email if you need support
+Please write us an Email if you need support.
+
 We are glad to get any comments and error reports.
-A random instances generators are available upon request
+
+A random instances generators are available upon request.
 ## Acknowledgments
 [Our project "Human-Centered Algorithm Engineering: Graph and Map Visualization"](https://www.ac.tuwien.ac.at/research/humalgo/) is supported by the Austrian Science Fund (FWF) under Grant P31119.
