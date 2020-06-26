@@ -14,9 +14,12 @@ Our Framework contains 4 algorithms.
 <li>gridK: The group-shifting based algorithm. Need a extra parameter -k</li>
 <li>line: stabbing-line based 2-approximation algorithm</li>
 </ol>
+
+ *More details see our paper "An Algorithmic Study of Fully Dynamic Independent Sets for Map Labeling"([ARXIV LINK](https://arxiv.org/abs/2002.07611))
 # Installation
 Compile the source with Debug/Makefile.
 # Usage
+
 # Acknowledgement
 # Reference
 
