@@ -19,6 +19,15 @@ Our Framework contains 4 algorithms.
 # Installation
 Compile the source with Debug/Makefile.
 # Usage
+-------------------Usage--------------------------------------------------------
+./dynaMIS  <instance> [options]
+
+-------------------Options------------------------------------------------------
+   --output, -o : output the solution
+   --help, -h : output this help
+   --algorithm, -a : algorithm in use (see options below)
+   --sigma, -s : width of a square
+---------------------------------------------------------------------------------
 
 
 # Acknowledgments
