@@ -23,7 +23,7 @@ Compile the source with Debug/Makefile.
 
 --output, -o : output the solution</br>
 --help, -h : output this help</br>
---algorithm, -a : algorithm in use， please using the abbreviations (see description above)</br>
+--algorithm, -a : algorithm in use, please using the abbreviations (see description above)</br>
 --sigma, -s : width of a square</br>
 
 
