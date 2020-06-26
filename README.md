@@ -26,7 +26,7 @@ Compile the source with the Debug/Makefile file.
 
 --output, -o : output the solution</br>
 --help, -h : output this help</br>
---algorithm, -a : algorithm in use, please using the abbreviations (see description above)</br>
+--algorithm, -a : algorithm in use, please using the abbreviations (see description above). To adding greedy optimization, just add 'g' to the algorithm name, e.g., 'garrow' </br>
 --sigma, -s : width of a square</br>
 
 
