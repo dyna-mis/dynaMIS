@@ -20,7 +20,9 @@ Our Framework contains 4 algorithms.
 Compile the source with Debug/Makefile.
 # Usage
 
-# Acknowledgement
+
+# Acknowledgments
+[Our project "Human-Centered Algorithm Engineering: Graph and Map Visualization"](https://www.ac.tuwien.ac.at/research/humalgo/) is supported by the Austrian Science Fund (FWF) under Grant P31119.
 # Reference
 
 
