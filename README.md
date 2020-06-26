@@ -2,8 +2,8 @@
 Dynamic Vienna Maximum/maximal Independent Set Solver 
 # Description
 # Installation
-# Usage
-# Aknowlegement
+# How to use
+# Acknowledgement
 # Reference
 
 
