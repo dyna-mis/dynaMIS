@@ -77,9 +77,9 @@ void printInitUsage(){
 	printf("\n-------------------algorithm options------------------------------------------------------\n");
 	printf("   ors : a dynamic MIS algorithm based on orthogonal range searching \n");
 	printf("   graph: a graph-based dynamic MIS algorithm\n");
-	printf("   grid:a grid-based 4-approximation algorithm \n");
-	printf("   gridK: : The group-shifting based algorithm. Need a extra parameter -k\n");
-	printf("   line,  : stabbing-line based 2-approximation algorithm\n\n");
+	printf("   grid: a grid-based 4-approximation algorithm \n");
+	printf("   gridK: The group-shifting based algorithm. Need a extra parameter -k\n");
+	printf("   line: stabbing-line based 2-approximation algorithm\n\n");
 	printf("   *More details see our paper \"Independent Sets of Dynamic Rectangles:Algorithms and Experiments\" <ARXIV LINK>\n");
 	printf("---------------------------------------------------------------------------------\n");
 
