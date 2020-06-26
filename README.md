@@ -1,4 +1,9 @@
-# dynaMIS <img src="dynamis_icon.gif" width="100">
+## dynaMIS <img src="dynamis_icon.gif" width="100">
 Dynamic Vienna Maximum/maximal Independent Set Solver 
+# Description
+# Installation
+# Usage
+# Aknowlegement
+# Reference
 
 
