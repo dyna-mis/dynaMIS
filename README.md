@@ -15,7 +15,7 @@ Our Framework contains 4 algorithms.
 <li>line: stabbing-line based 2-approximation algorithm</li>
 </ol>
 
- *More details see our paper "An Algorithmic Study of Fully Dynamic Independent Sets for Map Labeling"([ARXIV LINK](https://arxiv.org/abs/2002.07611))
+
 # Installation
 Compile the source with Debug/Makefile.
 # Usage
@@ -24,5 +24,5 @@ Compile the source with Debug/Makefile.
 # Acknowledgments
 [Our project "Human-Centered Algorithm Engineering: Graph and Map Visualization"](https://www.ac.tuwien.ac.at/research/humalgo/) is supported by the Austrian Science Fund (FWF) under Grant P31119.
 # Reference
-
+More details see our paper "An Algorithmic Study of Fully Dynamic Independent Sets for Map Labeling"([ARXIV LINK](https://arxiv.org/abs/2002.07611))
 
