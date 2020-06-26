@@ -22,10 +22,10 @@ Compile the source with Debug/Makefile.
 ./dynaMIS  <instance> [options]
 
 
-   --output, -o : output the solution
-   --help, -h : output this help
-   --algorithm, -a : algorithm in use (see options below)
-   --sigma, -s : width of a square
+--output, -o : output the solution
+--help, -h : output this help
+--algorithm, -a : algorithm in use (see options below)
+--sigma, -s : width of a square
 
 
 
