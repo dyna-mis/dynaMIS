@@ -16,10 +16,10 @@ So far our framework contains a deterministic algorithm for maintaining a **MIS*
 
 <div class="row">
   <div class="column">
-    <img src="dynamis_icon.gif" width="100">
+    <img src="dynamis_icon.gif" width="300">
   </div>
   <div class="column">
-    <img src="illu.jpg" width="100"> 
+    <img src="illu.jpg" width="300"> 
   </div>
 </div>
 
