@@ -32,7 +32,7 @@ Sujoy Bhore, Guangping Li, Martin Nöllenburg
 Algorithms (ESA'20) (Fabrizio Grandoni, Peter Sanders, eds.), volume 173 of LIPIcs, pages 8:1–8:24, 2020, Schloss Dagstuhl – Leibniz-Zentrum für Informatik.
 
 
-[bibtex](https://www.ac.tuwien.ac.at/publications/bln-asfdisl-20?file=../../publications/noellenburg-ac-web.bib) [pdf](https://arxiv.org/abs/2002.07611) [doi](https://dx.doi.org/10.4230/LIPIcs.ESA.2020.8)
+[[bibtex]](https://www.ac.tuwien.ac.at/publications/bln-asfdisl-20?file=../../publications/noellenburg-ac-web.bib) [[pdf]](https://arxiv.org/abs/2002.07611) [[doi]](https://dx.doi.org/10.4230/LIPIcs.ESA.2020.8)
 
 
 Please acknowledge our work if you publish your result using our algorithms or code.
