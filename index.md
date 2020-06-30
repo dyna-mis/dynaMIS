@@ -11,7 +11,7 @@ other hand, Max-IS serves as a natural model for many real-life optimization pro
 including map labeling, computer vision, information retrieval, and scheduling.
 
 
-This is the open source project DynaMIS--a dynamic maximum independent solver developed at the  Institute of Logic and Computation, TU Wien, Vienna, Austria.
+This is the open source project DynaMIS---a dynamic maximum independent solver developed at the  Institute of Logic and Computation, TU Wien, Vienna, Austria.
 So far our framework contains a deterministic algorithm for maintaining a **MIS** (and thus a $$4$$-approximate **Max-IS**) of a dynamic set of uniform rectangles with amortized sub-logarithmic update time. This breaks the natural barrier of $$\Omega(\Delta)$$ update time, where $$\Delta$$ is the maximum degree in the graph. We also provide a series of deterministic dynamic approximation schemes for maintaining a **Max-IS**. The algorithm **GRID** maintains a $$4$$-approximate **Max-IS** with $$O(1)$$ update time. Its derived algorithm **GRID-K** establishes the trade-off between approximation quality $$2(1+\frac{1}{k})$$ and update time  $$O(k^2\log n)$$. Our framework also includes an algorithm that maintains unit interval graphs. With this algorithm,  a $$2$$-approximate **Max-IS** for dynamic sets of unit-height rectangles with $$O(\omega \log n)$$ update time can be maintained, where $$\omega$$ is the maximum size of an independent set of the rectangles stabbed by any horizontal line.  
 
 ## Licence
