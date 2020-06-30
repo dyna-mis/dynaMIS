@@ -6,7 +6,6 @@ for unit square intersection graphs
 <li>CGAL (>= 4.11.2)</li>
 <li>  g++ </li>
 </ol>
-<embed src="rectilinear-polygon.pdf">
 # Description
 Our Framework contains 5 algorithms.
 * ors(rs) : a dynamic MIS algorithm based on orthogonal range searching 
@@ -15,7 +14,7 @@ Our Framework contains 5 algorithms.
 * gridK(slk): The group-shifting based algorithm. Need a extra parameter -k
 * line(arrow): stabbing-line based 2-approximation algorithm
 
-
+<embed src="rectilinear-polygon.pdf"/>
 Additionally, our framework supports the greedy optimization with the maximal independent set solver,i.e., grid, gridk, and line.  The greedy versions drastically improve the solution
  quality, but typically at the cost of higher runtimes. 
 
