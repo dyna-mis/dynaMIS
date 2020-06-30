@@ -32,4 +32,4 @@ We are glad to get any comments and error reports.
 
 A random instances generators are available upon request.
 ## Acknowledgments
-[Our project "Human-Centered Algorithm Engineering: Graph and Map Visualization"](https://www.ac.tuwien.ac.at/research/humalgo/) is supported by the Austrian Science Fund (FWF) under Grant P31119.
+DynaMIS is part of the project ["Human-Centered Algorithm Engineering: Graph and Map Visualization"](https://www.ac.tuwien.ac.at/research/humalgo/) supported by the Austrian Science Fund (FWF) under Grant P31119.
