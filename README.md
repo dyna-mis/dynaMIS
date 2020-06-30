@@ -16,7 +16,7 @@ Our Framework contains 5 algorithms.
 ##<embed src="rectilinear-polygon.pdf" width="800px" height="2100px" />
 Additionally, our framework supports the greedy optimization with the maximal independent set solver,i.e., grid, gridk, and line.  The greedy versions drastically improve the solution
  quality, but typically at the cost of higher runtimes. 
-<img src="antarctica-5163636_1920.jpg" width="100"> 
+
 # Installation
 Compile the source with the Debug/Makefile file.
 # Usage
