@@ -13,7 +13,7 @@ Our Framework contains 5 algorithms.
 * grid(sl): a grid-based 4-approximation algorithm 
 * gridK(slk): The group-shifting based algorithm. Need a extra parameter -k
 * line(arrow): stabbing-line based 2-approximation algorithm
-<embed src="rectilinear-polygon.pdf" width="800px" height="2100px" />
+##<embed src="rectilinear-polygon.pdf" width="800px" height="2100px" />
 Additionally, our framework supports the greedy optimization with the maximal independent set solver,i.e., grid, gridk, and line.  The greedy versions drastically improve the solution
  quality, but typically at the cost of higher runtimes. 
 
