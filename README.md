@@ -1,4 +1,5 @@
-## <img src="dynamis_icon.gif" width="100"> Dynamic Vienna Maximum/maximal Independent Set Solver  
+## <img src="dynamis_icon.gif" width="100"> Dynamic Maximum/Maximal Independent Set Solver
+for unit square intersection graphs
 
 # Requirements
 <ol>
