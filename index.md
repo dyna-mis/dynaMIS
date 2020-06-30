@@ -17,7 +17,7 @@ So far our framework contains a deterministic algorithm for maintaining a **MIS*
 
 <img src="dynamis_icon.gif" width="100">
 
-<img src="antarctica-5163636_1920.jpg" width="100"> 
+<img src="illu.jpg" width="100"> 
 
 ## Licence
 
