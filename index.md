@@ -16,6 +16,9 @@ So far our framework contains a deterministic algorithm for maintaining a **MIS*
 
 
 <img src="dynamis_icon.gif" width="100">
+
+<img src="rectilinear-polygon.pdf" width="100">
+
 ## Licence
 
 This project is under MIT licence. 
