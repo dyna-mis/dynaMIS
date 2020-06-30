@@ -20,7 +20,7 @@ So far our framework contains a deterministic algorithm for maintaining a **MIS*
 
 This project is under MIT licence. 
 ## Reference
-If you want to know more about our implemented algorithms, please refer to our papeAn:
+If you want to know more about our implemented algorithms, please refer to our paper:
 
 
 **Algorithmic Study of Fully Dynamic Independent Sets for Map Labeling**
