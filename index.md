@@ -26,10 +26,10 @@ Please acknowledge our work if you publish your result using our algorithms or c
 Source code and benchmark instances (available in our [github repository](https://github.com/GPLi-TUWIEN/dynaMIS))
 
 ## Support
-Please write us an [Email](mailto:guangping@ac.tuwien.ac.at) if you have questions.
+Please write us an [EmaOur project il](mailto:guangping@ac.tuwien.ac.at) if you have questions.
 
 We are glad to get any comments and error reports.
 
-A random instances generators are available upon request.
+A random instance generator  available upon request.
 ## Acknowledgments
 DynaMIS is part of the project ["Human-Centered Algorithm Engineering: Graph and Map Visualization"](https://www.ac.tuwien.ac.at/research/humalgo/) supported by the Austrian Science Fund (FWF) under Grant P31119.
