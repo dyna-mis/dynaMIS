@@ -6,7 +6,7 @@ for unit square intersection graphs
 <li>CGAL (>= 4.11.2)</li>
 <li>  g++ </li>
 </ol>
-
+<img src="figs/rectilinear-polygon.pdf" alt="Demo Image">
 # Description
 Our Framework contains 5 algorithms.
 * ors(rs) : a dynamic MIS algorithm based on orthogonal range searching 
