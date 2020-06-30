@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 title: DynaMIS
 description: Dynamic Maximum/Maximal Independent Set Solver for Unit Square Intersection Graphs
 
