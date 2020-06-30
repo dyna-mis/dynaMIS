@@ -30,6 +30,6 @@ Please write us an [Email](mailto:guangping@ac.tuwien.ac.at) if you have questio
 
 We are glad to get any comments and error reports.
 
-A random instance generator  available upon request.
+A random instance generator is available upon request.
 ## Acknowledgments
 DynaMIS is part of the project ["Human-Centered Algorithm Engineering: Graph and Map Visualization"](https://www.ac.tuwien.ac.at/research/humalgo/) supported by the Austrian Science Fund (FWF) under Grant P31119.
