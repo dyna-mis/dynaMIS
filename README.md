@@ -1,6 +1,7 @@
 ## <img src="dynamis_icon.gif" width="100"> Dynamic Maximum/Maximal Independent Set Solver
 for unit square intersection graphs
 
+Github Page: https://dyna-mis.github.io/dynaMIS/
 # Requirements
 <ol>
 <li>CGAL (>= 4.11.2)</li>
