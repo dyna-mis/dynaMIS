@@ -54,7 +54,8 @@ Algorithms (ESA'20) (Fabrizio Grandoni, Peter Sanders, eds.), volume 173 of LIPI
 Please acknowledge our work if you publish your result using our algorithms or code.
 
 ## Download
-Source code and benchmark instances (available in our [github repository](https://github.com/GPLi-TUWIEN/dynaMIS))
+Source code and benchmark instances (available in this [github repository](https://github.com/GPLi-TUWIEN/dynaMIS))
+Benchmark data generator for point features (available in this [github repository](https://github.com/dyna-mis/labeling-instance-generator))
 
 ## Support
 Please write us an [Email](mailto:guangping@ac.tuwien.ac.at) if you have questions.
