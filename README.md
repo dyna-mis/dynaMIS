@@ -1,5 +1,5 @@
 ## <img src="dynamis_icon.gif" width="100"> Dynamic Maximum/Maximal Independent Set Solver
-for unit square intersection graphs
+for unit-height rectangle intersection graphs
 
 Github Page: https://dyna-mis.github.io/dynaMIS/
 # Requirements
@@ -9,10 +9,10 @@ Github Page: https://dyna-mis.github.io/dynaMIS/
 </ol>
 # Description
 Our Framework contains 5 algorithms.
-* ors(rs) : a dynamic MIS algorithm based on orthogonal range searching 
+* ors(rs) : a dynamic MIS algorithm based on orthogonal range searching (for unit squares)
 * graph(cg): a graph-based dynamic MIS algorithm
-* grid(sl): a grid-based 4-approximation algorithm 
-* gridK(slk): The group-shifting based algorithm. Need a extra parameter -k
+* grid(sl): a grid-based 4-approximation algorithm （for unit squares）
+* gridK(slk): The group-shifting based algorithm. Need a extra parameter -k (for unit squares)
 * line(arrow): stabbing-line based 2-approximation algorithm
 ##<embed src="rectilinear-polygon.pdf" width="800px" height="2100px" />
 Additionally, our framework supports the greedy optimization with the maximal independent set solver,i.e., grid, gridk, and line.  The greedy versions drastically improve the solution
