@@ -48,7 +48,7 @@ If you want to know more about our implemented algorithms, please refer to our p
 **Algorithmic Study of Fully Dynamic Independent Sets for Map Labeling**<br>
 Sujoy Bhore, Guangping Li, Martin Nöllenburg<br>
 Algorithms (ESA'20) (Fabrizio Grandoni, Peter Sanders, eds.), volume 173 of LIPIcs, pages 19:1–19:24, 2020, Schloss Dagstuhl – Leibniz-Zentrum für Informatik.<br>
-[[bibtex]](https://www.ac.tuwien.ac.at/publications/bln-asfdisl-20?file=../../publications/noellenburg-ac-web.bib) [[pdf]](https://arxiv.org/abs/2002.07611) [[doi]](https://dx.doi.org/10.4230/LIPIcs.ESA.2020.19)
+[[bibtex]](https://www.ac.tuwien.ac.at/publications/bln-asfdisl-22?file=../../publications/noellenburg-ac-web.bib) [[pdf]](https://arxiv.org/abs/2002.07611) [[doi]](https://dx.doi.org/10.4230/LIPIcs.ESA.2020.19)
 
 **Algorithmic Study of Fully Dynamic Independent Sets for Map Labeling**<br>
 Sujoy Bhore, Guangping Li, Martin Nöllenburg<br>
