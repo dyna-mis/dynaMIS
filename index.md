@@ -44,11 +44,16 @@ So far our framework contains a deterministic algorithm for maintaining a **MIS*
 
 This project is under MIT licence. 
 ## Reference
-If you want to know more about our implemented algorithms, please refer to our paper:<br>
+If you want to know more about our implemented algorithms, please refer to our papers:<br>
 **Algorithmic Study of Fully Dynamic Independent Sets for Map Labeling**<br>
 Sujoy Bhore, Guangping Li, Martin Nöllenburg<br>
 Algorithms (ESA'20) (Fabrizio Grandoni, Peter Sanders, eds.), volume 173 of LIPIcs, pages 19:1–19:24, 2020, Schloss Dagstuhl – Leibniz-Zentrum für Informatik.<br>
 [[bibtex]](https://www.ac.tuwien.ac.at/publications/bln-asfdisl-20?file=../../publications/noellenburg-ac-web.bib) [[pdf]](https://arxiv.org/abs/2002.07611) [[doi]](https://dx.doi.org/10.4230/LIPIcs.ESA.2020.19)
+
+**Algorithmic Study of Fully Dynamic Independent Sets for Map Labeling**<br>
+Sujoy Bhore, Guangping Li, Martin Nöllenburg<br>
+ACM J. Experimental Algorithmics, volume 27, pages 1.8:1–1.8:36, 2022.<br>
+[[bibtex]](https://www.ac.tuwien.ac.at/publications/blnrw-ucdac-21?file=../../publications/noellenburg-ac-web.bib) [[doi]](https://dl.acm.org/doi/10.1145/3514240)
 
 
 Please acknowledge our work if you publish your result using our algorithms or code.
